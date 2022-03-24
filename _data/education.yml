@@ -1,12 +1,20 @@
 # Education Template
 - layout: left
+  name: University of Luxembourg
+  dates: 2022 - Now
+  qualification: PhD of Computer Science
+  quote: >
+    The University of Luxembourg was founded in 2003 by combining four existing education and research institutes: the Centre universitaire, Institut supérieur d'études et de recherches pédagogiques, Institut supérieur de technologie, and Institut d'études éducatives et sociales. The university is the only public university in Luxembourg.
+  description: | # this will include new lines to allow paragraphs
+    As a PhD student in SnT, I mainly research on Natural Language Processing Tasks.
+- layout: left
   name: Osaka University
-  dates: 2021 - Now
+  dates: 2021 - 2022
   qualification: PhD of Computer Science
   quote: >
     Osaka University is a public research university located in Osaka Prefecture, Japan. It was one of Imperial Universities in Japan, one of the Designated National University and selected as a Top Type university of Top Global University Project by the Japanese government.
   description: | # this will include new lines to allow paragraphs
-    As a PhD student in Intelligence and Sensing Lab., I mainly research on Video Question-Answering system and other NLP based fusion missions.
+    As a PhD student in Intelligence and Sensing Lab., I mainly research on Video Question-Answering system and other NLP based fusion missions. Transfer to Luxembourg by March 2022.
 - layout: left
   name: University of Birmingham
   dates: 2019 - 2020
