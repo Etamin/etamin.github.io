@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Yewei Song (宋 業偉)
 title: PhD student in Computer Science
-email: song-yw@is.ids.osaka-u.ac.jp
+email: yewei.song@uni.lu
 website: etamin.github.io
 
 # Dark Mode (true/false/never)
