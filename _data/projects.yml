@@ -1,24 +1,33 @@
 # Project template
 - layout: top-middle
-  name: Automated Speech Scoring with DNN or GMM in Goodness of Pronunciations
-  link: http://etamin.github.io/pdf/minipj.pdf
+  name: Revisiting Code Similarity Evaluation with Abstract Syntax Tree Edit Distance
+  link: 
   quote: >
-    A comparison of DNN and GMM model in Goodness of Pronunciations, supervised by <a href="https://www.cs.bham.ac.uk/~pjh/">P.J.Hancox</a>
+    Submitted to ARR Feburary.
   description: | # this will include new lines to allow paragraphs
-    This is a Second Semester Mini-Project of MSc project, a simple research compare different models in GoP algorithm. The research based on Kaldi toolkit and three group of collected voice data from non-native English speaker. The reporter selected the deep neural network and the mixed Gaussian model from the development history of ASR technology as a comparison between the new and old technologies.
+    This paper reassesses recent code similarity evaluation metrics, with a specific focus on Abstract Syntax Tree (AST) editing distance across diverse programming languages, demonstrating its efficacy in capturing intricate code structures and proposing an adaptable metric, TSED, that outperforms traditional sequence similarity metrics and prompt-based GPT similarity scores.
 
 - layout: top-middle
-  name: Text Logical Scoring Based on Knowledge Graph (Recent) 
+  name: Enhancing Text-to-SQL Translation for Financial System Design
+  link: 
+  quote: >
+    Accepted by ICSE-2024:SEIP track.
+  description: | # this will include new lines to allow paragraphs
+    In this paper, we investigate the role of Large Language Models (LLMs) in enhancing Text-to-SQL performance by benchmarking their efficacy, proposing novel similarity metrics for SQL queries, and demonstrating their applicability in financial domain use cases, thereby facilitating the automation of natural language interaction with relational databases and advancing the practical adoption of Text2SQL systems.
+
+- layout: top-middle
+  name: Letz Translate Low-Resource Machine Translationfor Luxembourgish
+  link: https://ieeexplore.ieee.org/document/10236754
+  quote: >
+    Accepted by ICNLP-2023.
+  description: | # this will include new lines to allow paragraphs
+    In this paper, we propose a method for improving machine translation accuracy in low-resource language environments by utilizing knowledge distillation from large multilingual models and incorporating high-resource languages related to the target language, exemplified through the evaluation on Luxembourgish, demonstrating over 30% faster performance with only a 4% decrease in accuracy compared to state-of-the-art models.
+
+- layout: top-middle
+  name: Text Logical Scoring Based on Knowledge Graph 
   link: http://etamin.github.io/pdf/Master_thesis.pdf
   quote: >
-    Try to use scale of KG size to judge essays logical. Supervised by <a href="https://www.cs.bham.ac.uk/~pjh/">P.J.Hancox</a>
+    Master Thesis for UoB. Supervised by <a href="https://www.cs.bham.ac.uk/~pjh/">P.J.Hancox</a>
   description: | # this will include new lines to allow paragraphs
-    This is a research project I am currently working on, and it is also my master's degree project. This article proposes to use the scale of the knowledge graph as a criterion for judging the logic of essay, and summarizes the methods for constructing the knowledge graph from essay and the problems that may be encountered in the scoring process.
+    This is a research project of my Master Thesis, the paper proposes to use the scale of the knowledge graph as a criterion for judging the logic of essay, and summarizes the methods for constructing the knowledge graph from essay and the problems that may be encountered in the scoring process.
 
-- layout: top-middle
-  name: Investigation of Recommender System Failure Scenarios
-  link: http://etamin.github.io/pdf/HCI.pdf
-  quote: >
-    Try to use scale of KG size to judge essays logical, supervised by Bob Hendley
-  description: | # this will include new lines to allow paragraphs
-    In Research Topic of Human Computer Interaction, I choose to investigate various failure scenarios of the recommendation system. And what methods and techniques are used to solve these failure scenarios. This article mainly studies how to improve these failure scenarios from five aspects: personal adaptation, recommendation quality, privacy protection, ethical principles, and deep models.
