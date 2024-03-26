@@ -40,6 +40,10 @@ about_content: | # this will include new lines to allow paragraphs
   My common technology stack includes <mark>Python</mark>, <mark>Java</mark>, <mark>JavaScripts</mark> etc. 
   In <mark>NLP</mark>, my focus area is <mark>Large Language Model</mark> and <mark>Software Engineering</mark>.
 
+  こんにちは、私の名前はイェウェイです。現在、私はルクセンブルク大学の博士研究員で、ジャック・クラインに指導を受けています。
+  私の学術研究は主に自然言語処理の分野にあります。私の一般的な技術スタックにはPython、Java、JavaScriptなどが含まれています。
+  NLPでは、主に大規模言語モデルとソフトウェアエンジニアリングに焦点を当てています。
+
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
 projects_title: Major Publications
