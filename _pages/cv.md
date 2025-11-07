@@ -11,26 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Luxembourg, 2026 (expected)
+* M.Sc. Advanced Computer Science, The University of Birmingham, 2020
+* B.Eng. in Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2016 - 2017: Assistant Software Engineer
+  * China Union Pay
+  * Duties includes: Automated test and Payment system.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2019: Senior Software Engineer
+  * USTC iFlytek
+  * Duties included: NLP platform, DevOps and data processing system design.
   
 Skills
 ======
