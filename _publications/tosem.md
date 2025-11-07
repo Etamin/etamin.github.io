@@ -1,0 +1,11 @@
+---
+title: "You Don’t Have to Say Where to Edit! jLED–Joint Learning to Localize and Edit Source Code"
+collection: publications
+category: manuscripts
+permalink: /publication/jled
+date: 2025-01-13
+venue: 'ACM Transactions on Software Engineering and Methodology'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3712187'
+citation: 'Weiguo Pian, Yinghua Li, Haoye Tian, Tiezhu Sun, Yewei Song, Xunzhu Tang, Andrew Habib, Jacques Klein, and Tegawendé F. Bissyandé. 2025. You Don’t Have to Say Where to Edit! jLED—Joint Learning to Localize and Edit Source Code. ACM Trans. Softw. Eng. Methodol. 34, 6, Article 164 (July 2025), 27 pages. https://doi.org/10.1145/3712187'
+---
+Learning to edit code automatically is becoming more and more feasible. Thanks to recent advances in Neural Machine Translation (NMT), various case studies are being investigated where patches are automatically produced and assessed either automatically (using test suites) or by developers themselves. An appealing setting remains when the developer must provide a natural language input of the requirement for the code change. A recent proof of concept in the literature showed that it is indeed feasible to translate these natural language requirements into code changes. A recent advancement, MODIT, has shown promising results in code editing by leveraging natural language, code context, and location information as input. However, it struggles when location information is unavailable. While several studies have demonstrated the ability to edit source code without explicitly specifying the edit location, they still tend to generate edits with less accuracy at the line level. In this work, we address the challenge of generating code edits without precise location information, a scenario we consider crucial for the practical adoption of NMT in code development. To that end, we develop a novel joint training approach for both localization and source code editions. Building a benchmark based on over 70k commits (patches and messages), we demonstrate that our joint Localize and EDit (jLED) approach is effective. An ablation study further demonstrates the importance of our design choice in joint training.
