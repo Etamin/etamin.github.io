@@ -3,7 +3,7 @@ title: "Measuring LLM Code Generation Stability via Structural Entropy"
 collection: publications
 category: conferences
 permalink: /publication/callnavi
-date: 2025-11
+date: 2025-11-17
 venue: '40th IEEE/ACM International Conference on Automated Software Engineering, ASE 2025'
 paperurl: 'https://arxiv.org/abs/2508.14288'
 citation: ''
