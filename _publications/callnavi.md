@@ -1,12 +1,12 @@
 ---
-title: "Revisiting Code Similarity Evaluation with Abstract Syntax Tree Edit Distance"
+title: "CallNavi, A Challenge and Empirical Study on LLM Function Calling and Routing"
 collection: publications
 category: conferences
-permalink: /publication/acl24-3
-date: 2024-08-17
-venue: 'Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics(ACL24)'
-paperurl: 'https://aclanthology.org/2024.acl-short.3/'
-citation: 'Song, Yewei, et al. "Revisiting Code Similarity Evaluation with Abstract Syntax Tree Edit Distance." Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers). 2024.'
+permalink: /publication/callnavi
+date: 2025-06-10
+venue: 'International Conference on Evaluation and Assessment in Software Engineering (EASE) 2025'
+paperurl: 'https://arxiv.org/abs/2501.05255'
+citation: 'Yewei Song, Xunzhu Tang, Cedric Lothritz, Saad Ezzini, Jacques Klein, Tegawendé Bissyande, Andrey Boytsov, Ulrick Ble, and Anne Goujon. 2025. CallNavi, A challenge and empirical study on LLM function calling and routing. In Evaluation and Assessment in Software Engineering (EASE ’25), June 17–20, 2025, Istanbul, Turkiye. ACM, New York, NY, USA, 12 pages. https://doi.org/10.1145/3756681.3756975'
 ---
 
-This paper revisits recent code similarity evaluation metrics, particularly focusing on the application of Abstract Syntax Tree (AST) editing distance in diverse programming languages. In particular, we explore the usefulness of these metrics and compare them to traditional sequence similarity metrics. Our experiments showcase the effectiveness of AST editing distance in capturing intricate code structures, revealing a high correlation with established metrics. Furthermore, we explore the strengths and weaknesses of AST editing distance and prompt-based GPT similarity scores in comparison to BLEU score, execution match, and Jaccard Similarity. We propose, optimize, and publish an adaptable metric that demonstrates effectiveness across all tested languages, representing an enhanced version of Tree Similarity of Edit Distance (TSED).
+API-driven chatbot systems are increasingly integral to software engineering applications, yet their effectiveness hinges on accurately generating and executing API calls. This is particularly challenging in scenarios requiring multi-step interactions with complex parameterization and nested API dependencies. Addressing these challenges, this work contributes to the evaluation and assessment of AI-based software development through three key advancements: (1) the introduction of a novel dataset specifically designed for benchmarking API function selection, parameter generation, and nested API execution; (2) an empirical evaluation of state-of-the-art language models, analyzing their performance across varying task complexities in API function generation and parameter accuracy; and (3) a hybrid approach to API routing, combining general-purpose large language models for API selection with fine-tuned models and prompt engineering for parameter generation. These innovations significantly improve API execution in chatbot systems, offering practical methodologies for enhancing software design, testing, and operational workflows in real-world software engineering contexts.

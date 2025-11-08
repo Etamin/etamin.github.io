@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/icse24
 date: 2024-05-31
 venue: 'In Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice'
-paperurl: 'https://aclanthology.org/2024.acl-short.3/'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3639477.3639732'
 citation: 'Song, Yewei, Saad Ezzini, Xunzhu Tang, Cedric Lothritz, Jacques Klein, Tegawendé Bissyandé, Andrey Boytsov, Ulrick Ble, and Anne Goujon. "Enhancing text-to-sql translation for financial system design." In Proceedings of the 46th International Conference on Software Engineering: Software Engineering in Practice, pp. 252-262. 2024.'
 ---
 
