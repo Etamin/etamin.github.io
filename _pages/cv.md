@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Luxembourg, 2026 (expected)
-* M.Sc. Advanced Computer Science, The University of Birmingham, 2020
-* B.Eng. in Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, 2016
+* Ph.D in Computer Science, University of Luxembourg, Apr-2026 (expected)
+* M.Sc. Advanced Computer Science, The University of Birmingham, Nov-2020
+* B.Eng. in Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, June-2016
+* Visiting PhD, University of Tokyo, Jan-2026
 
 Work experience
 ======
@@ -27,12 +28,17 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning Tools
+* Programming Languages
+  * Python
+  * Java
+  * C++
+  * JavaScript
+* Languages
+  * English
+  * Mandarin Chinese
+  * Japanese
+  * Luxembourgish
 
 Publications
 ======
@@ -40,11 +46,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -54,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* ACL ARR Reviewer
