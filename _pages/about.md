@@ -16,7 +16,11 @@ redirect_from:
 Hobbies and Interests
 ======
 Video Games
+
 Traveling
+
 Ski
+
 Mountain Climbing
+
 <a href="https://my.flightradar24.com/syw12345ht"><img src="https://banners-my.flightradar24.com/syw12345ht.png" alt="My Flightdiary.net profile" /></a>
