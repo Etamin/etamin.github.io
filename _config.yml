@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Yewei Song"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Computer Science at University of Luxembourg. My research interests include Software Engineering, Machine Learning, and Natural Language Processing."
+  bio              : "Postdoctoral Researcher at the University of Luxembourg. My research interests include Software Engineering, Machine Learning, and Natural Language Processing."
   location         : "Luxembourg"
   employer         : "University of Luxembourg"
   uri              : # URL
@@ -87,6 +87,8 @@ publication_category:
     title: 'Journal Articles'    
   books:
     title: 'Books'
+  theses:
+    title: 'Thesis'
 
 
 # Site Settings
