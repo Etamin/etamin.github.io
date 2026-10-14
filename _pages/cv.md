@@ -11,13 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Luxembourg, Apr-2026 (expected)
+* Ph.D in Computer Science, University of Luxembourg, Jun-2026
+  * Thesis: Intelligent Conversation System for Multilingual Financial Industry
 * M.Sc. Advanced Computer Science, The University of Birmingham, Nov-2020
 * B.Eng. in Computer Science and Technology, Nanjing University of Aeronautics and Astronautics, June-2016
 * Visiting PhD, University of Tokyo, Jan-2026
 
 Work experience
 ======
+* 2026 - present: Postdoctoral Researcher
+  * University of Luxembourg
+  * Research on Large Language Models, Software Engineering and Natural Language Processing.
+
 * 2016 - 2017: Assistant Software Engineer
   * China Union Pay
   * Duties includes: Automated test and Payment system.
